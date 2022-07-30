@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LittleWomanCoding
 - 👀 I’m interested in reading, self taught, nature, sewing.
-- 🌱 I’m currently learning Java language. - Java, A Beginner´s Guide (Java 7 - výukový kurz).
+- 🌱 I’m currently learning Java language.
 - 💞️ I’m looking to collaborate on studying Java language.
 - 📫 How to reach me - here!
 
